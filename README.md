@@ -1,14 +1,14 @@
 # url-shortener-nodejs-react
 Url Shortener Backend Node.js, Express, MySQL &amp; Frontend React Project
  
-# Start backend Service first (url-shoten-service)
+# Start backend Service first (nodejs-service)
 	(1) Open terminal and navigate to Project folder.
 	(2) For first time run "npm install" on your terminal
 	(3) Wait for all dependency to be installed
 	(4) Enter "npm start" on your terminal to run the service
 	(5) This backend service will run on http://localhost:4000/
 
-# Start Frontend UI Project (shorter-url-client)	
+# Start Frontend UI Project (react-client)	
 	(1) Open terminal and navigate to Project folder.
 	(2) For first time run "npm install" on your terminal
 	(3) Wait for all dependency to be installed
